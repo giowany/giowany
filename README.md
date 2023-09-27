@@ -25,7 +25,7 @@
 <h3> 📚 Github Stats: <br></h3>
   
 <div>
-  <a href="[https://github.com/jeangregolon](https://github.com/jeangregolon)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeangregolon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeangregolon&layout=compact&langs_count=16&theme=dark"/>
+  <a href="[https://github.com/giowany](https://github.com/giowany)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=giowany&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giowany&layout=compact&langs_count=16&theme=dark"/>
 </div>
